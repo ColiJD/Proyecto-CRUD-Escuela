@@ -1,0 +1,211 @@
+C:\Users\antonio\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\antonio\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\antonio\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\antonio\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\antonio\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\TransControl_src.dll
+C:\Users\antonio\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\antonio\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\antonio\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\antonio\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\antonio\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\antonio\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\antonio\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\antonio\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\antonio\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\antonio\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\antonio\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\antonio\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\antonio\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\antonio\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\antonio\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\TransControl_src.dll
+C:\Users\antonio\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\antonio\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\antonio\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\antonio\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\antonio\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\antonio\Desktop\tema grenhoop\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\antonio\Desktop\tema grenhoop\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\antonio\Desktop\tema grenhoop\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\antonio\Desktop\tema grenhoop\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\antonio\Desktop\tema grenhoop\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\antonio\Desktop\tema grenhoop\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\antonio\Desktop\tema grenhoop\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\antonio\Desktop\tema grenhoop\WindowsApplication1\bin\Debug\TransControl_src.dll
+C:\Users\antonio\Desktop\tema grenhoop\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\antonio\Desktop\tema grenhoop\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\antonio\Desktop\tema grenhoop\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\antonio\Desktop\tema grenhoop\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\antonio\Desktop\tema grenhoop\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\bin\Debug\TransControl_src.dll
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\obj\Debug\WindowsApplication1.frmmenu.resources
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\obj\Debug\WindowsApplication1.frmestudiante.resources
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\bin\Debug\CloudToolkitN6.dll
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\obj\Debug\WindowsApplication1.frmsplash.resources
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\obj\Debug\WindowsApplication1.frmlogin.resources
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\obj\Debug\WindowsApplication1.frmaulas.resources
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\obj\Debug\WindowsApplication1.frmcalificaciones.resources
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\obj\Debug\WindowsApplication1.frmdocente.resources
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\obj\Debug\WindowsApplication1.frmhorarios.resources
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\obj\Debug\WindowsApplication1.frmmaterias.resources
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\obj\Debug\WindowsApplication1.frmusuario.resources
+C:\Users\antonio\Desktop\colegio v1.0\WindowsApplication1\obj\Debug\WindowsApplication1.frmbuscar.resources
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\bin\Debug\CloudToolkitN6.dll
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\bin\Debug\TransControl_src.dll
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\obj\Debug\WindowsApplication1.frmaulas.resources
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\obj\Debug\WindowsApplication1.frmbuscar.resources
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\obj\Debug\WindowsApplication1.frmcalificaciones.resources
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\obj\Debug\WindowsApplication1.frmdocente.resources
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\obj\Debug\WindowsApplication1.frmhorarios.resources
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\obj\Debug\WindowsApplication1.frmmaterias.resources
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\obj\Debug\WindowsApplication1.frmmenu.resources
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\obj\Debug\WindowsApplication1.frmestudiante.resources
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\obj\Debug\WindowsApplication1.frmsplash.resources
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\obj\Debug\WindowsApplication1.frmlogin.resources
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\obj\Debug\WindowsApplication1.frmusuario.resources
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\antonio\Desktop\colegio v1.0 - copia\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\CloudToolkitN6.dll
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\TransControl_src.dll
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmaulas.resources
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmcalificaciones.resources
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmdocente.resources
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmhorarios.resources
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmmaterias.resources
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmmenu.resources
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmestudiante.resources
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmsplash.resources
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmlogin.resources
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmusuario.resources
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmacerca.resources
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmvistaestudiante.resources
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmvistadocente.resources
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmvistacalificaciones.resources
+C:\Users\antonio\Desktop\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmacerca.resources
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmaulas.resources
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmcalificaciones.resources
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmdocente.resources
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmhorarios.resources
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmmaterias.resources
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmmenu.resources
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmestudiante.resources
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmsplash.resources
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmlogin.resources
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmusuario.resources
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmvistacalificaciones.resources
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmvistadocente.resources
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmvistaestudiante.resources
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Visual Studio1\PROYECTOS GUARDADOS\load\P.O.O\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmacerca.resources
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmaulas.resources
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmcalificaciones.resources
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmdocente.resources
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmhorarios.resources
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmmaterias.resources
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmmenu.resources
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmestudiante.resources
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmsplash.resources
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmlogin.resources
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmusuario.resources
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmvistacalificaciones.resources
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmvistadocente.resources
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmvistaestudiante.resources
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Source Code\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmacerca.resources
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmaulas.resources
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmcalificaciones.resources
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmdocente.resources
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmhorarios.resources
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmmaterias.resources
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmmenu.resources
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmestudiante.resources
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmsplash.resources
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmlogin.resources
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmusuario.resources
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmvistacalificaciones.resources
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmvistadocente.resources
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmvistaestudiante.resources
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Source Code\Nueva carpeta\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmacerca.resources
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmdocente.resources
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmmenu.resources
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmestudiante.resources
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmsplash.resources
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmlogin.resources
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmusuario.resources
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmvistacalificaciones.resources
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmvistadocente.resources
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmvistaestudiante.resources
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CopyComplete
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmEncargado.resources
+C:\Users\colin\Documents\Visual Studio 2019\wetransfer_colegio-v1-0-oficial-rar_2022-11-26_0208\colegio v1.0 - OFICIAL\WindowsApplication1\obj\Debug\WindowsApplication1.frmmatricula.resources
